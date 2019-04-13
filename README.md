@@ -21,7 +21,7 @@ RestTemplate
 
 ​netflix:
 
-   	 Eureka：注册中心
+​  Eureka：注册中心
 
 ​	Zuul：服务网关
 
